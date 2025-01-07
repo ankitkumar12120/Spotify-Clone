@@ -33,10 +33,10 @@ All images and icons used in the project are stored in the `Assets` and `Home_As
 
 ## Screenshots
 
-![Screenshot 1](./Assets/screenshot1.png)
-![Screenshot 2](./Assets/screenshot2.png)
-![Screenshot 3](./Assets/screenshot3.png)
-![Screenshot 4](./Assets/screenshot4.png)
+![Screenshot 1](./Assets/Screenshot1.png)
+![Screenshot 2](./Assets/Screenshot2.png)
+![Screenshot 3](./Assets/Screenshot3.png)
+![Screenshot 4](./Assets/Screenshot4.png)
 
 ## Future Enhancements
 
